@@ -1,0 +1,12 @@
+*.bin
+#ignore *.a *.o
+*.[ao]
+
+#exclude clib.a
+!clib.a
+
+#ignore backup files
+*~
+
+#ignore debug dirctory
+debug/
