@@ -1,1 +1,2 @@
 add something from afxbase2
+add 2 from afxbase2
